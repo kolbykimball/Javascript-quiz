@@ -1,0 +1,57 @@
+body {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    margin: 25px auto;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 5px 10px 2px;
+    border-radius: 10px;
+    position: relative;
+}
+
+#submitScore {
+
+}
+
+#quiz {
+
+}
+
+#question {
+
+}
+
+#choices {
+
+}
+
+#answer {
+
+}
+
+#timer {
+
+}
+
+#highscore {
+
+}
+
+#homepage {
+
+}
+
+#scoretable {
+
+}
+
+#tableBody {
+
+}
+
+#clearStorage {
+    
+}
