@@ -12,7 +12,7 @@ body {
     position: relative;
 }
 
-#submitScore {
+#start {
 
 }
 
@@ -29,6 +29,10 @@ body {
 }
 
 #answer {
+
+}
+
+#submitScore {
 
 }
 
@@ -53,5 +57,5 @@ body {
 }
 
 #clearStorage {
-    
+
 }
